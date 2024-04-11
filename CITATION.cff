@@ -1,8 +1,10 @@
-@software{Fbisinger2024,
-  author = {F. Bisinger},
-  doi = {10.5281/zenodo.10962512},
-  month = {04},
-  title = {{Learning Test}},
-  url = {https://github.com/Fbisinger/Learning/},
-  year = {2024}
-}
+cff-version: 1.2.0
+message: "If you use our work, please cite it as below."
+authors:
+- family-names: "Bisinger"
+  given-names: "F"
+title: "Learning Test"
+version: 0.0.1
+doi: 10.5281/zenodo.10962512
+date-released: 2024-04-11
+url: "https://github.com/Fbisinger/Learning/"
